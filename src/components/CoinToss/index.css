@@ -1,0 +1,38 @@
+.img {
+  height: 100px;
+  width: 100px;
+}
+.bg-con {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  background-color: white;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 50vw;
+}
+.set-items {
+  display: flex;
+  padding: 20px;
+}
+.sty1 {
+  margin-right: 15px;
+}
+.sty2 {
+  margin-right: 15px;
+}
+.btn {
+  background-color: #f9d423;
+  color: #a35200;
+  border: none;
+}
+.head {
+  color: #a35200;
+}
